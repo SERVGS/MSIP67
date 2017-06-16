@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MS_color
+  - CLNFOchild
+  - Silhouettes
+  - Fade
+  - Fade2
+  - TXTCradle
+  - NFOsigns
+  - ShowMSNFO
+  - CloseMSNFO
+  - ShowMSPARTS
+  - CloseMSPARTS
+  - CloseMesh
+  - PlayAn
+  - OnlyMesh
+  - NotOnlyMesh
+  - ShowCradleINF
+  - CloseCradleINF
+  - ScriptsONOFF
+  - CrAnimText
+  - CrAnimPic
+  - MainNFOSprites
+  - SCOnlyMesh
+  - SCNotOnlyMesh
+  - SCShow
+  - SCClose
+  - SCShowINF
+  - SCCloseINF
+  - SCFade
+  - SCCC
+  - SC_ChangeColNFO
+  - GCOnlyMesh
+  - GCNotOnlyMesh
+  - GCShow
+  - GCClose
+  - GCShowINF
+  - GCCloseINF
+  - GCPlayAn
+  - GSFade
+  - GSAnimText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Canvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1
+    uniqueID: 3300479191
+    locked: 0
+  - name: 2
+    uniqueID: 4229711555
+    locked: 0

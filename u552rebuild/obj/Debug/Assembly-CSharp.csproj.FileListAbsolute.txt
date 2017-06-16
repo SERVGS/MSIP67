@@ -1,0 +1,2 @@
+C:\Users\StasV10\OneDrive\Microsense3D\U5-52rebuild\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Nadia\OneDrive\Microsense3D\U5-52rebuild\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

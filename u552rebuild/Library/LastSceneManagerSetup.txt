@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MS_rebuild_19FB.unity
+  isLoaded: 1
+  isActive: 1
